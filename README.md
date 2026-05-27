@@ -173,8 +173,8 @@ This project strengthened my understanding of:
 ## Yogesh Kumar
 Aspiring Data Analyst
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK/
-- GitHub: https://github.com/YOUR-USERNAME
+- LinkedIn: https://www.linkedin.com/in/yogeshkumar-data-analyst/
+- GitHub: https://github.com/YOUR-USERNAME](https://github.com/yogeshkumar70628
 
 ---
 
